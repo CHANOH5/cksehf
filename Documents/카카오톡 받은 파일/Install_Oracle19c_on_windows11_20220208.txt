@@ -1,0 +1,133 @@
+************************************************
+Oracle19c Release 3 Installation On Premise
+************************************************
+
+1. Oracle19c download file includes Oracle database `home directory`.		(***)
+
+
+2. Installation on the `C:\u01` 
+
+	Step1. mkdir `C:\u01\oracle\product\19.3.0\dbhome`
+
+	Step2. Unzip download zip file into the `C:\u01\oracle\product\19.3.0\dbhome`
+	
+		* `ORACLE_BASE` : `C:\u01\oracle`									(***)
+		* `ORACLE_HOME` : `*ORACLE_BASE*\product\19.3.0\dbhome`			(***)
+
+	Step3. execute `setup.exe` in the `ORACLE_HOME` directory
+
+	Step4. Set installation options
+
+		(01) Configuration Option : `Single Instance Database Creation and Configuration`
+		(02) System Class : `Server Class`
+		(03) Setup Type : `Advanced Setup` 
+		(04) Database Version : `Enterprise Edition`
+		(05) Oracle Home User : `Use Virtual Account`
+			 * Note : For installation, Oracle needs *Standard* account, Administrated account *NOT* permitted (***)
+		(06) Install Location : `ORACLE_BASE` (C:\u01\oracle)
+			 * Note : Oracle software location : `ORACLE_HOME` (C:\u01\oracle\product\19.3.0\dbhome)
+		(07) Configuration Type : `General/Transaction Processing` (* OLTP *)
+		(08) Database Identifier (SID) : 
+			 * Global Database Name : `korea`					(default: `orcl`)			(***, convection: lower case)
+			 * Oracle SID (System Identifier) : `korea`			(default: `orcl`)			(***, convection: lower case)
+			 * Checking `Create as a Container Database` option
+			 * Pluggable Database Name : `seoul`				(default: `orclpdb`)		(***, convection: lower case)
+		(09) Configuration Options :
+			 * Memory Tab : `1024 MB` (Mininum: 648MB required)								(***) 			<----- ***
+			   Note : `Automatic Memory Management (AMM)` only allowed
+			   		  if system memory is lower than 4GB 									(***)
+			 * Character Set Tab : `Unicode(AL32UTF8)`										(***, default)
+			 * Sample Schema Tab : * Please check `Install database sample schema` option 	(***, Mandatory) <----- ***
+			   Note : `HR`(Human Resource) schema automatically created. 					(***)
+		(10) Datbase Storage : `File System`
+			 * Database Files Location : `*ORACLE_BASE*\oradata` (C:\u01\oracle\oradata)	(***)
+		(11) Management Options : *NO* checking option
+		(12) Recovery Option : *NO* recovery option
+		(13) Schema Passwords : Please select `Use same password for all accounts`
+			 * Make all `SYS`, `SYSTEM`, `PDBADMIN` administrators passwords same 			(***)
+			 * Enter password : `oracle`
+		(14) Checking pre-requisites
+		(15) Summary : confirm all configuration options fit
+
+	Step5. Install
+
+		** Important : While installation, Firewall appear 2 times.							(***)
+					   at this time, please `allow` firewall to be open for home/public
+
+	Step6. 
+
+
+3. Deinstall (*** Windows Terminal as a Administrator ***)
+
+	> cd `ORACLE_HOME\deinstall`
+
+	> .\deinstall.bat
+
+	> sc query | grep -i ora | grep SERVICE
+
+	> sc qc     <ORACLE_SERVICE_NAME>
+	> sc delete <ORACLE_SERVICE_NAME>
+
+	> regedit
+		(1) Computer > HKEY_LOCAL_MACHINE > SOFTWARE > *ORACLE* (remove !!!) 
+		(2) Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Services > ... (remove all oracle related services)
+
+	> net user
+	> net user oracle /delete
+	> net user
+
+	> net localgroup | grep ORA
+	> net localgroup <Oracle Local Group Names> /delete
+	  ...
+	> net localgroup
+
+	> cd `C:\u01\oracle\`
+	> del all directories EXCEPT `product` directory (Oracle home directory included)
+	> cd `C:\program files`
+	> del `Oracle`                               (Oracle Inventory Directory)
+
+	* delete all oracle home directory
+	> cd C:\users
+	> del `oracle`
+
+
+4. Windows services management
+
+	> sc query
+	> sc qc			<service_name>
+	> sc delete 	<service_name>
+
+
+5. Database Management
+
+	> show user
+	> show pdbs
+	> show sga
+
+	> shutdown immediate
+	> startup
+	
+
+	> alter pluggable database SEOUL open;
+	> alter pluggable database all save state;
+
+	$ sqlplus sys/oracle@vfx-lenovo:1521/korea as sysdba		<--- EZCONNECT
+	$ sqlplus sys/oracle@vfx-lenovo/korea as sysdba				<--- EZCONNECT
+
+	$ sqlplus pdbadmin/oracle@korea as sysdba					<--- TNSNAMES
+	$ sqlplus system/oracle@korea as sysdba						<--- TNSNAMES
+
+
+	> desc tab
+	> col TNAME format a30
+
+
+6. Database ping
+
+	> tnsping <address> [<count>]
+
+
+	> tnsping vfx-lenovo 10
+
+
+	

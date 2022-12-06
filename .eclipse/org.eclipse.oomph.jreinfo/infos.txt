@@ -1,0 +1,3 @@
+C:\app\Java\jdk-17.0.4.1;17;0;4;64;true;1665814975537;x86_64
+C:\app\scoop\apps\temurin17-jdk\current;17;0;4;64;true;1660741451000;x86_64
+C:\app\Java\jdk-11.0.16.1;11;0;16;64;true;1665814507517;x86_64

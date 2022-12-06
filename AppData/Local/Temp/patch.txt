@@ -1,0 +1,27 @@
+kakaotalk
+new
+3.4.3.3222
+old
+3.4.3.3219
+old~1
+3.4.3.3217
+old~2
+3.4.3.3215
+priority
+0
+removed
+0
+removed~1
+0
+removed~2
+0
+kakaoupdate
+KakaoUpdate.exe 0 785488 3349308631
+pak
+4
+kakaotalk_3.4.3.3222_full.pak 0 85955596 3049699641
+kakaotalk_3.4.3.3219_3.4.3.3222_diff.pak 1 23307459 3120925245
+kakaotalk_3.4.3.3217_3.4.3.3222_diff.pak 2 23307459 3120925245
+kakaotalk_3.4.3.3215_3.4.3.3222_diff.pak 3 23307459 3120925245
+
+signature Ii/HgLstZz1gLh2fY9reG+eG9UOmDQ3CZklcQA+831hQ1x4VL2YWYL7lHI8OlHFdLzhE/9ac+SCIxF5IOw5c4mHK+jZjhCY2NqCO0cIUtYMLuD0KURutWzRLLG68roKsseAEL9lyBw19aPTmKj5OJTgtgc+K+WW1PSdaQtfgJp4=

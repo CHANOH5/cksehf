@@ -1,0 +1,720 @@
+0	0
+휴대폰과 연결~
+화상 키보드~
+허브~
+피플~
+피드백 허브~
+프롬프트~
+포함된 windows defender 방화벽~
+포털~
+편집기~
+팩스 및 스캔~
+패드~
+파일 탐색기~
+팁~
+터미널~
+탐색기~
+키보드~
+클라이언트~
+콘솔 컴패니언~
+컴퓨터 관리~
+컴패니언~
+캡처 및 스케치~
+캡처 도구~
+카카오톡~
+카메라~
+최적화~
+초기자~
+진단~
+지원~
+지도~
+조각 모음 및 최적화~
+제어판~
+제거~
+정책~
+정보~
+정리~
+작업 스케줄러~
+작업 관리자~
+일정~
+인쇄 관리~
+이벤트 뷰어~
+음악~
+음성 녹음기~
+원본(64비트)~
+원격 데스크톱 연결~
+워치~
+워드패드~
+요소 서비스~
+오버워치~
+영화 및 tv~
+연결~
+실행~
+시스템 정보~
+시스템 구성~
+시계~
+스티커 메모~
+스케치~
+스케줄러~
+스캔~
+성능 모니터~
+설정~
+서비스~
+상태 검사~
+사진~
+빠른 지원~
+비트)~
+비디오 편집기~
+뷰어~
+복구 드라이브~
+보안이 포함된 windows defender 방화벽~
+보안~
+보안 정책~
+방화벽~
+및 최적화~
+및 스케치~
+및 스캔~
+및 tv~
+문자표~
+모음 및 최적화~
+모니터~
+명령 프롬프트~
+메일~
+메모장~
+메모리 진단~
+메모~
+리소스 모니터~
+로컬 보안 정책~
+레코더~
+레지스트리 편집기~
+라이엇 클라이언트~
+디스크 정리~
+드라이브~
+드라이브 조각 모음 및 최적화~
+돋보기~
+도움말~
+도구~
+데이터 원본(64비트)~
+데스크톱 연결~
+단계 레코더~
+녹음기~
+내레이터~
+내 pc~
+날씨~
+기자~
+그림판~
+그림판 3d~
+구성~
+구성 요소 서비스~
+관리자~
+관리~
+관리 도구~
+고급 보안이 포함된 windows defender 방화벽~
+계산기~
+검사~
+هدفثق~
+سنغ~
+ылн~
+zip~
+xbox 콘솔 컴패니언~
+xbox game bar~
+x86)~
+word~
+wordpad~
+wmv~
+wmplayer~
+windowsmedia~
+windows 팩스 및 스캔~
+windows 보안~
+windows 메모리 진단~
+windows 관리 도구~
+windows store~
+windows speech recognition~
+windows shop~
+windows shell~
+windows powershell~
+windows powershell ise~
+windows powershell ise (x86)~
+windows powershell (x86)~
+windows power shell~
+windows player~
+windows mw~
+windows mi~
+windows media player~
+windows meda~
+windows mea~
+windows defender 방화벽~
+windows apps~
+windows app store~
+windows 10~
+window store~
+window power~
+window player~
+window media player~
+windos store~
+wf~
+wfs~
+web browser~
+video player:wux:video player~
+video chat:wux:video chat~
+video call:wux:video call~
+unter~
+unins000~
+uie~
+tv~
+tool~
+text~
+taskschd~
+taskmgr~
+sype~
+sykpe~
+sublime_text~
+sublime text~
+sttore~
+strore~
+stroe~
+stpre~
+stotr~
+stote~
+storw~
+storte~
+storre~
+store~
+storew~
+stores~
+storer~
+storee~
+stopre~
+stoore~
+stoer~
+stire~
+sstore~
+sspotify~
+sskype~
+srore~
+spype~
+sptoify~
+sptofiy~
+sptify~
+sppotify~
+spoyify~
+spoty~
+spotui~
+spotufy~
+spotr~
+spotofy~
+spotiy~
+spotiufy~
+spotiofy~
+spotigy~
+spotify~
+spotify'~
+spotifu~
+spotifi~
+spotidy~
+spotfy~
+spotfiy~
+sportify~
+sporify~
+spopt~
+spootify~
+spoitify~
+spoitfy~
+spoify~
+spofi~
+spodify~
+spit~
+speech recognition~
+sp[ot~
+sources (32-bit)~
+sotre~
+sotify~
+sote~
+sore~
+solitaire & casual games~
+software꞉ adrenalin edition~
+snipping~
+snippingtool~
+snap~
+smart noise cancellation~
+smart microphone settings~
+slype~
+skzpe~
+skyype~
+skyupe~
+skyt~
+skypwe~
+skypte~
+skypre~
+skyppe~
+skypoe~
+skype~
+skypew~
+skypeskype~
+skyper~
+skypepe~
+skypek~
+skypee~
+skype4~
+skype'~
+skyp[e~
+skyope~
+skyoe~
+skyle~
+skyk~
+skyepe~
+skydrive:wux:skydrive~
+skybe~
+sky[pe~
+sky[e~
+sky'~
+skuype~
+skupe~
+skty~
+sks~
+skpye~
+skpe~
+skl~
+skkype~
+skj~
+skipe~
+skhype~
+skey~
+skepe~
+sjype~
+sjyoe~
+shop~
+setting~
+settings~
+services~
+secpol~
+sc~
+scype~
+sapisvr~
+sakype~
+s[po~
+s'k'y~
+run~
+rip~
+riotclientservices~
+report tool~
+remote~
+regedit~
+reference documentation~
+recoverydrive~
+record~
+recognition~
+realtek audio console~
+reality 포털~
+radeonsoftware~
+quickassist~
+pwoershell~
+pwershell~
+psr~
+printmanagement~
+powrshell~
+powreshell~
+poweshell~
+powersj~
+powershll~
+powersher~
+powershell~
+powershelll~
+powershell_ise~
+powershell.exe~
+powershell ise~
+powershell ise (x86)~
+powershell admin~
+powershell (x86)~
+powersheell~
+powersell~
+powersehll~
+powerhsell~
+powerhell~
+power shell~
+poewrshell~
+poershell~
+player~
+play store~
+play cd:wux:play cd~
+perfmon~
+pc~
+pchealthcheck~
+pc 상태 검사~
+panel~
+paint~
+overwatch~
+overwatch launcher~
+osk~
+open spotify~
+open skype~
+open one drive~
+open office~
+open internet explorer~
+open edge~
+onter~
+oner~
+onenote for windows 10~
+onedrive~
+onedriver~
+onedrie~
+onedrice~
+onedive~
+onedirve~
+onede~
+one drive app~
+one drie~
+one dirve~
+ondrive~
+omter~
+ointer~
+ofice~
+offie~
+officw~
+office~
+offf~
+offcie~
+of legends~
+odbcad32~
+odbc32~
+odbc 데이터 원본(64비트)~
+odbc data sources (32-bit)~
+obdc~
+notion~
+notepad~
+noise cancellation~
+net~
+narrator~
+my~
+my office~
+music player:wux:music player~
+mstsc~
+mspaint~
+msinfo32~
+msedge~
+msconfig~
+ms store~
+ms off~
+ms edge~
+movie player:wux:movie player~
+mixed reality 포털~
+mirco~
+mircosoft~
+mip~
+micrsoft store~
+microsoftstore~
+microsoftedge~
+microsoft store~
+microsoft sotre~
+microsoft onedrive~
+microsoft one drive~
+microsoft media:wux:microsoft media~
+microsoft inter~
+microsoft explorer~
+microsoft edge~
+microsoft cloud~
+microsoft apps:wux:microsoft apps~
+microsft store~
+microsft edge~
+microsfot store~
+microphone settings~
+memo~
+meida~
+meia~
+medu~
+medo~
+medis~
+medie~
+mediaplayer~
+mediaa~
+media player~
+medai~
+mdsched~
+mdia~
+math input panel~
+market~
+mail~
+magnify~
+lol~
+loja~
+lleague~
+lkea~
+link~
+lewa~
+lenovo smart noise cancellation~
+legue~
+legends~
+legaue~
+leea~
+leauge of legends~
+leaue~
+leas~
+leah~
+leagye~
+leaguye~
+league'~
+league of legends~
+leage~
+leaf~
+ktspeedclient~
+ktspeedclient 제거~
+kt-speed-client~
+ksype~
+ksky~
+kako~
+kakaotalk~
+ixplore~
+ixl~
+iunter~
+iue~
+itnernet~
+iternet~
+ise~
+ise (x86)~
+iscsicpl~
+iscsi 초기자~
+ionter~
+inyter~
+inyrt~
+inyernet~
+intyernet~
+intwr~
+intwer~
+intternet~
+intrt~
+intrr~
+intrnet~
+intrernet~
+intrenet~
+intra~
+intnt~
+intnet~
+intnert~
+intnernet~
+intneret~
+intin~
+intger~
+intewr~
+intetr~
+intetnet~
+intertnet~
+interrnet~
+internwt~
+interntet~
+internter~
+internrt~
+internnet~
+internmet~
+interneyt~
+internext~
+internew~
+internety~
+internett~
+internetr~
+internetn~
+internetexplorer~
+internet'~
+internet exporer~
+internet expolorer~
+internet exployer~
+internet explorr~
+internet explorer~
+internet explorere~
+internet explorer 9~
+internet explorer 11~
+internet exploreer~
+internet exploerer~
+internet exo~
+internet exlorer~
+internet eplorer~
+internet browser~
+internest~
+internert~
+interner explorer~
+internent~
+interneet~
+internate~
+internal~
+intermet~
+interin~
+interet~
+interer~
+interent explorer~
+interenet explorer~
+interbet~
+inter]~
+inter4~
+inter'~
+inter net~
+intent~
+intenret~
+intenet explorer~
+intener~
+inteernet~
+int4~
+int'~
+int exp~
+inrter~
+inrer~
+input panel~
+innternet~
+inm~
+ininter~
+ingter~
+inetrnet~
+inetner~
+ineternet~
+inert~
+inernet explorer~
+index~
+inbter~
+in ter~
+imternet~
+imnter~
+ijn~
+iinternet~
+iie~
+iexpore~
+iexplre~
+iexplore~
+iexplorer.exe~
+iexplore.exe~
+iexploer~
+ier~
+ieplore~
+iee~
+ie11~
+ie.exe~
+ie 11~
+ibter~
+ibnter~
+i.e~
+i nter~
+i e~
+gui~
+groove 음악~
+google~
+gitbash~
+git-gui~
+git-bash~
+git gui~
+git bash~
+games~
+game store:wux:game store~
+game bar~
+free games:wux:free games~
+for windows 10~
+ex~
+expp~
+exporer~
+expolorer~
+exployer~
+explorr~
+explorer~
+explorerr~
+explorere~
+explorer 11~
+exploer~
+ex[~
+eventvwr~
+ether~
+ete~
+eplorer~
+entre~
+enternet~
+enternet explorer~
+ege~
+egde~
+edsge~
+edition~
+edgr~
+edghe~
+edgge~
+edgfe~
+edge~
+edge.com~
+edge'~
+edege~
+eddge~
+e'd~
+dsn~
+download apps:wux:download apps~
+dolby audio~
+documentation~
+dkype~
+dfrgui~
+defender 방화벽~
+data sources (32-bit)~
+crome~
+cortana~
+copy dvd:wux:copy dvd~
+control~
+control panel~
+console~
+compmgmt~
+comexp~
+cmd~
+cloud:wux:cloud~
+cleanmgr~
+chrome~
+charmap~
+cd play~
+cd burner:wux:cd burner~
+casual games~
+capture~
+cancellation~
+camera~
+calculator~
+cac~
+burn disc:wux:burn disc~
+burn cd:wux:burn cd~
+burn a cd:wux:burn a cd~
+bug report tool~
+browsers~
+browser:wux:browser~
+blizzard~
+bit)~
+batttle~
+battler~
+battlenet~
+battle.net~
+battle.net launcher~
+battle net~
+battke~
+battel~
+batrt~
+batlle~
+batle~
+bash~
+bar~
+baatt~
+azure~
+audio~
+audio player:wux:audio player~
+audio console~
+atore~
+asky~
+aps~
+appstore~
+apps store~
+appp~
+appa~
+app store:wux:app store~
+app sotre~
+apotify~
+ap store~
+amdbugreporttool~
+amd software꞉ adrenalin edition~
+amd link~
+amd bug report tool~
+all apps~
+akypw~
+akype~
+adrenalin edition~
+7zfm~
+7-zip~
+64비트)~
+3d~
+3d 뷰어~
+32-bit)~
+10~

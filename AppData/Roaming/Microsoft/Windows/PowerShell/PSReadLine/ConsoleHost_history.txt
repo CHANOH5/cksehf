@@ -1,0 +1,95 @@
+$env:SCOOP='C:\app\scoop'
+$env:SCOOP
+$env:SCOOP='C:\app\scoop'
+irm get.scoop.sh | iex
+scoop config
+cd $env:SCOOP
+dir
+tree
+sysdm.cpl
+scoop help bucket
+scoop bucket list
+ scoop bucket known
+scoop bucket add extras
+scoop install git
+"C:\app\scoop\apps\7zip\current\install-context.reg"
+scoop bucket known
+scoop bucket add extras
+scoop bucket add java
+scoop bucket add versions
+C:\app\scoop\apps\7zip\current\install-context.reg
+scoop search netcat
+scoop install netcat
+scoop list
+scoop bucket add versions
+scoop bucket add extras
+scoop list
+java list
+scoop java list
+java -version
+scoop search jdk
+scoop install temurin-lts-jdk 17
+scoop install temurin17-lts-jdk
+scoop install temurin17-jdk
+scoop install temurin11-jdk
+scoop list
+java -version
+javac -version
+$env:JAVA_HOME
+scoop reset temurin17-jdk
+java -version
+javac -version
+scoop info --verbose temurin17-jdk
+$env:JAVA_HOME
+scoop list
+syssdm.cpl
+sysdm.cpl
+$env:JAVA_HOME
+sysdm.cpl
+$env:JAVA_HOME
+sysdm.cpl
+$env:JAVA_HOME
+scoop list
+s
+scoop install D2coding
+jshell
+ping
+ping test
+ping 168.126.63.1 -t
+git --version
+update
+scoop update
+code.
+git config --global user.name "OH"
+git config --global user.emai "dhcksehf1@naver.com"
+git config user.name
+git config user.email
+git config --global user.email "dhcksehf1@naver.com"
+git config user.email
+git config --global core.autocrlf true
+cd projects
+mkdir git
+cd git
+ls -al
+is -al
+git init
+ls
+open .git
+rm -rf .git
+rm -rf.git
+rm -rf .git
+rm .git
+cd ..
+git list
+echo hello world! > a.txt
+echo hello world! > b.txt
+echo hello world! > c.txt
+ls
+git status
+git add a.txt
+$git init
+$ git init
+$git init
+git init
+git add a.txt
+git add *.txt
